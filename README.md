@@ -1,6 +1,5 @@
 # reinforcement-learning-toys
 Some toy examples in reinforcement learning. Inspired by the David Silver's lecture
-======
 
 
 ## q_learn.py
@@ -45,3 +44,4 @@ Create a new build system in Sublime, and fill in the following config
 }
 ```
 
+∏
