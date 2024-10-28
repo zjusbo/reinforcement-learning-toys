@@ -11,6 +11,8 @@ The game is introduced in David Silver's reinforcement course [lecture 5](https:
 
 The Dyna-Q algorithm is introduced in [lecture 8](https://youtu.be/ItMutbeOHtc?si=vmOCb08iacUwLyuT&t=3240)
 
+![](https://github.com/zjusbo/reinforcement-learning-toys/blob/main/assets/q_learning/dyna-q.png)
+
 In this file, we explored different hyper-parameters, and find the best one, which takes around 2 episode runs to get the optimal path.
 
 1. search for the best learing rate
