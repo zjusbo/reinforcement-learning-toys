@@ -7,6 +7,8 @@ Some toy examples in reinforcement learning. Inspired by the David Silver's lect
 This is the Dyna-Q learning algorithm optimizes a grid game: Sarsa on the Windy Gridworld
 The game is introduced in David Silver's reinforcement course [lecture 5](https://youtu.be/0g4j2k_Ggc4?feature=shared&t=2983).
 
+![](https://github.com/zjusbo/reinforcement-learning-toys/blob/main/assets/q_learning/problem_setup.png)
+
 The Dyna-Q algorithm is introduced in [lecture 8](https://youtu.be/ItMutbeOHtc?si=vmOCb08iacUwLyuT&t=3240)
 
 In this file, we explored different hyper-parameters, and find the best one, which takes around 2 episode runs to get the optimal path.
